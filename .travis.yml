@@ -13,4 +13,4 @@ python:
   - "nightly"
 # command to run tests
 script:
-  - py.test # or py.test for Python versions 3.5 and below
+  - py.test tests.py # or py.test for Python versions 3.5 and below
